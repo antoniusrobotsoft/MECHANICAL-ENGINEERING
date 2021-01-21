@@ -10,4 +10,4 @@ characteristics :
 - if the radius increases it will be harder to move the object
 
 
-
+ inertia ratio = the load inertia / the motor inertia.
