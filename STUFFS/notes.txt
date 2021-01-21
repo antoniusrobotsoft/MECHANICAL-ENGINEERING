@@ -1,4 +1,4 @@
 Torque = moment of inertia x angular acceleration.
 
-Moment of inertia = MR ^2
+Moment of inertia = M * (R^2)
 (M=mass, R=radius)
