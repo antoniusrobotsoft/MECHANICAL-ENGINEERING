@@ -7,7 +7,7 @@ Moment of inertia = M * (R^2)
 
 characteristics : 
 - it's harder to move an object with larger moment of inertia
-
+- if the radius increases it will be harder to move the object
 
 
 
