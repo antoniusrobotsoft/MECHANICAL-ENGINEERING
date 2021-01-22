@@ -11,3 +11,8 @@ characteristics :
 
 
  inertia ratio = the load inertia / the motor inertia.
+
+
+
+links
+https://wiki.wpi.edu/robotics/Gears
